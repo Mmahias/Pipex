@@ -1,4 +1,4 @@
 # Pipex
 Project: Pipex | 42
 
-![IMG_2945](https://user-images.githubusercontent.com/76960878/139702622-de849e9d-1000-4b2c-a523-56af3887e484.jpg)
+![IMG_2945 (1)](https://user-images.githubusercontent.com/76960878/139702832-28f403ca-bb9a-467d-8dde-76a0b4c86170.jpg)
